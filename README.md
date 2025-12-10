@@ -57,6 +57,8 @@ eng0-template-skills/
 | py-intro | Python Zero To Hero Slides | slides | setup, build-and-deploy |
 | kubecon-llm-k8s | KubeCon LLM K8s Slides | slides | setup, build-and-deploy |
 | developer-portfolio | Developer Portfolio Pro | portfolio | setup, build-and-deploy |
+| stripe-one-time-payment | Stripe One-Time Payment | payments | setup, build-and-deploy |
+| stripe-subscription | Stripe Subscription | payments, saas | setup, build-and-deploy |
 
 ## Skills
 
